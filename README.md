@@ -1,6 +1,6 @@
 ![Open in Music](data/img/icon128.png "Open in Music")
 
- Adds GUI functionality to open the current youtube video in YouTube Music
+ Adds GUI functionality to open the current Youtube video in YouTube Music
 
 ![manifest shield](https://img.shields.io/badge/Chrome%20Manifest-v3-blue, "manifest shield")
 
