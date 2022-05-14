@@ -33,5 +33,8 @@
 
 The extension can be configured from `chrome://extensions` using the `options` button on the extension card. Users can select between opening Music in the current tab, redirecting the page, (default) or opening the website in a new tab.
 
+## Attribution
+The Material Design logo was created by Google Font: https://fonts.google.com/icons?selected=Material+Icons.
+
 ## License
 MIT
