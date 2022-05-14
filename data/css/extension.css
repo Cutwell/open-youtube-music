@@ -1,0 +1,40 @@
+.youtubemusic {
+    color: rgb(3,3,3);
+    height: 40px;
+    width: 95px;
+    position: relative;
+    box-sizing: border-box;
+    vertical-align: middle;
+    outline: none;
+    background: none;
+    margin: 0;
+    border: none;
+    padding: 0;
+    line-height: 0;
+    cursor: pointer;
+    padding-left: 6px;
+    text-align: center;
+}
+
+.youtubemusic-tagline {
+    color: rgb(3,3,3);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+    text-transform: uppercase;
+    padding: 6px;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 1.4rem;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    position: absolute;
+    top: 14px;
+    left: 30px;
+
+}
+
+.youtubemusic-icon {
+    height: 24px;
+    pointer-events: none;
+}
