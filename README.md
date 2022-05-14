@@ -1,13 +1,13 @@
-![Open in Youtube Music](data/img/icon128.png "Open in Youtube Music")
+![Open in Music](data/img/icon128.png "Open in Music")
 
- Adds GUI functionality to open the current youtube video in YouTube Music.
+ Adds GUI functionality to open the current youtube video in YouTube Music
 
 ![manifest shield](https://img.shields.io/badge/Chrome%20Manifest-v3-blue, "manifest shield")
 
 | |
 |:---:|
 | ![chrome web store](github/images/chromewebstore_logo.png "chrome web store") |
-| Install the GitHub1s extension in the [Chrome web store](). |
+| Install the Music extension in the [Chrome web store](https://chrome.google.com/webstore/detail/open-youtube-music/dcoopjjnhnlllfiklggkeafanfnllfnf). |
 
 ## About
 | |
@@ -31,7 +31,7 @@
 |:---:|:---:|
 | ![extension card](github/images/extension_card.PNG "extension card") | ![options page](github/images/extension_options.PNG "options page") |
 
-The extension can be configured from `chrome://extensions` using the `options` button on the extension card. Users can select between opening Youtube Music in the current tab (redirect) or opening the website in a new tab. The extension defaults to redirecting in the current tab.
+The extension can be configured from `chrome://extensions` using the `options` button on the extension card. Users can select between opening Music in the current tab, redirecting the page, (default) or opening the website in a new tab.
 
 ## License
 MIT
